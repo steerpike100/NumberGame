@@ -39,10 +39,7 @@ namespace NumberGuessGame
                 Console.WriteLine($"I'm sorry, you failed to guess within {MaxAttempts}.");
 
             }
-            else
-            {
-                Console.WriteLine("You failed to press ENTER - I gave you 5 attempts. Exiting game.");
-            }
+
         }
 
 
