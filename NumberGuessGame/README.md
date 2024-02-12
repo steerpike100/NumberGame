@@ -1,7 +1,7 @@
 # Number Guessing Game
 
 ## Introduction
-The Number Guessing Game is a simple, console-based C# application where players attempt to guess a randomly generated number between 1 and 10. Designed to be both engaging and straightforward, the game offers players five attempts to guess the correct number, with feedback provided for each guess.
+The Number Guessing Game is a simple, console-based C# application where players attempt to guess a randomly generated number between 1 and 10. The game offers players five attempts to guess the correct number, with feedback provided for each guess.
 
 ## Requirements
 - .NET Core 8.0 SDK or later
@@ -10,7 +10,8 @@ The Number Guessing Game is a simple, console-based C# application where players
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://yourrepositoryurl.com/path/to/repo
+   git clone https://github.com/steerpike100/NumberGame.git
+
 
 
 Navigate to the cloned directory.
