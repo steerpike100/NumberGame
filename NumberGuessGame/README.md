@@ -10,7 +10,8 @@ The Number Guessing Game is a simple, console-based C# application where players
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://yourrepositoryurl.com/path/to/repo
+   git clone https://github.com/steerpike100/NumberGame.git
+)
 
 
 Navigate to the cloned directory.
