@@ -11,7 +11,7 @@ The Number Guessing Game is a simple, console-based C# application where players
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/steerpike100/NumberGame.git
-)
+
 
 
 Navigate to the cloned directory.
