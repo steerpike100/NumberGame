@@ -22,6 +22,6 @@ How to Play
 Run the application from your IDE or navigate to the output directory and run the executable from the command line.
 Press ENTER to start the game when prompted.
 Enter your guess for the random number between 1 and 10 and press ENTER.
-You will receive feedback on whether your guess was too high, too low, or correct.
+You will receive feedback on whether your guess was correct.
 If you guess incorrectly, you will be prompted to guess again until you either guess correctly or exhaust your five attempts.
 After the game concludes (either by guessing correctly or running out of attempts), you will be asked if you would like to play again. Respond with y for yes or n for no.
